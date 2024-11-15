@@ -1,2 +1,8 @@
+streamlit
+pandas
+altair
+numpy 
+requests
 scikit-learn
 seaborn
+matplotlib
